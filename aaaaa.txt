@@ -2,4 +2,6 @@
 ooooooo
 仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄仄在
 qwerdf
+<<<<<<< HEAD
 zxcvb+没有啊！
+>>>>>>> featurel
